@@ -11,6 +11,11 @@ Our project integrates **IPFS**, **Zokrates**, and **smart contracts** to create
 Demo Video: [Link]https://drive.google.com/drive/folders/1Q4yLtJnJHk_VBONQqyiqAl56xWQqctKj?usp=sharing (data verification)
           : [Link]https://drive.google.com/file/d/1QmkNkeKfdkraaHU1BjChahaaBZjJmVy-/view?usp=sharing (document upload)
 ---
+## Demo Videos
+
+- **Data Verification**: [View on Google Drive](https://drive.google.com/drive/folders/1Q4yLtJnJHk_VBONQqyiqAl56xWQqctKj?usp=sharing)
+- **Document Upload**: [View on Google Drive](https://drive.google.com/file/d/1QmkNkeKfdkraaHU1BjChahaaBZjJmVy-/view?usp=sharing)
+---
 
 ## Key Features
 
