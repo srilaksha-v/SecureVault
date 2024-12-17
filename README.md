@@ -7,6 +7,7 @@
 SecureVault is a blockchain-based solution leveraging **Zero-Knowledge Proofs (ZKPs)** for secure and privacy-preserving data verification. The primary focus of the project is to enable third-party applications to access user-specific data fields without compromising their privacy, all while ensuring trust and transparency using blockchain technology.
 
 Our project integrates **IPFS**, **Zokrates**, and **smart contracts** to create a secure system for validating age requirements (as a proof of concept). This foundation can be extended to other fields like education, employment, or financial status.
+
 ---
 ## Demo Videos
 
